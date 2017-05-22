@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-GSGKDI2</Machine>
+    <Machine>DESKTOP-OO0DFQV</Machine>
     <WindowsUser>Hannes</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>6.3</TargetOsVersion>
@@ -9,72 +9,77 @@
     <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>Microsoft.SDKSamples.ShadowMapping.CPP</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\</IntermediateOutputPath>
+    <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowMapping.exe">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowMapping.exe">
       <PackagePath>ShadowMapping.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowMapping.winmd">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowMapping.winmd">
       <PackagePath>ShadowMapping.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\storeLogo-sdk.png">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\storeLogo-sdk.png">
       <PackagePath>storeLogo-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\squareTile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\squareTile-sdk.png">
       <PackagePath>squareTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\smallTile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\smallTile-sdk.png">
       <PackagePath>smallTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\splash-sdk.png">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\splash-sdk.png">
       <PackagePath>splash-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\windowstitle-sdk.png">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\windowstitle-sdk.png">
       <PackagePath>windowstitle-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ComparisonShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ComparisonShader.cso">
       <PackagePath>ComparisonShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\LinePixelShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\LinePixelShader.cso">
       <PackagePath>LinePixelShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\SimpleVertexShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\SimpleVertexShader.cso">
       <PackagePath>SimpleVertexShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowPixelShader_point.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowPixelShader_point.cso">
       <PackagePath>ShadowPixelShader_point.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowPixelShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowPixelShader.cso">
       <PackagePath>ShadowPixelShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\TextureShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\TextureShader.cso">
       <PackagePath>TextureShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\VertexLineShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\VertexLineShader.cso">
       <PackagePath>VertexLineShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\VertexShader.cso">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\VertexShader.cso">
       <PackagePath>VertexShader.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\App.xbf">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\DirectXPage.xbf">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\DirectXPage.xbf">
       <PackagePath>DirectXPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\resources.pri">
+    <AppxPackagedFile Include="C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\resources.pri">
       <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

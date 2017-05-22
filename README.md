@@ -1,6 +1,8 @@
 # DirectX-shadow-mapping_kd-tree
 DirectX 3D Visualization of a scene with three objects (Windows 8 SDK).
 
+https://youtu.be/34urQmoNbbU
+
 1. 3 objects
 2. Kochanek-Bartels Spline Interpolation for an automated tracking shot with 5 points in the scene + Quaternion Squad Interpolation
 3. Shadow Mapping with changeable light source

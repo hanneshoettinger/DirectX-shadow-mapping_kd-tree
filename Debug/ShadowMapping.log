@@ -1,1 +1,40 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(57,5): error MSB8020: Die Buildtools für v120 (Plattformtoolset = "v120") wurden nicht gefunden. Installieren Sie zum Erstellen mithilfe der v120-Buildtools die v120-Buildtools. Alternativ können Sie ein Upgrade auf die aktuellen Visual Studio-Tools durchführen, indem Sie das Menü "Projekt" auswählen oder mit der rechten Maustaste auf die Projektmappe klicken und dann "Projektmappe neu zuweisen" auswählen.
+﻿  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ComparisonShader.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\LinePixelShader.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\SimpleVertexShader.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowPixelShader_point.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowPixelShader.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\TextureShader.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\VertexLineShader.cso
+  compilation object save succeeded; see C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\VertexShader.cso
+  pch.cpp
+  BasicShapes.cpp
+  DDSTextureLoader.cpp
+  Kdtree.cpp
+  ShadowSceneRenderer.cpp
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(90): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(99): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(204): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(227): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(283): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(294): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(310): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(326): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(401): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(407): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\kdtree.cpp(424): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+  DeviceResources.cpp
+  ShadowMappingMain.cpp
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(1169): warning C4554: '|': Prüfen Sie Operatorrangfolge auf mögliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(1169): warning C4554: '&': Prüfen Sie Operatorrangfolge auf mögliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(1256): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(1264): warning C4316: 'kdtree' : Das auf dem Heap zugeordnete Objekt ist möglicherweise nicht 16 ausgerichtet
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(1297): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(2173): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+c:\users\hanne\onedrive\projekte\github\c++\directx-shadow-mapping_kd-tree\shadowscenerenderer.cpp(2503): warning C4244: 'Initialisierung': Konvertierung von 'unsigned int' in 'float', möglicher Datenverlust
+  App.xaml.cpp
+  DirectXPage.xaml.cpp
+  Timer.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Bibliothek "C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowMapping.lib" und Objekt "C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowMapping.exp" werden erstellt.
+  ShadowMapping.vcxproj -> C:\Users\hanne\OneDrive\Projekte\GitHub\C++\DirectX-shadow-mapping_kd-tree\Debug\ShadowMapping\ShadowMapping.exe

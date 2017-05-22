@@ -114,5 +114,7 @@
     <FxCompile Include="ShadowPixelShader.hlsl" />
     <FxCompile Include="ShadowPixelShader.hlsl" />
     <FxCompile Include="ShadowPixelShader.hlsl" />
+    <FxCompile Include="ShadowPixelShader.hlsl" />
+    <FxCompile Include="ShadowPixelShader.hlsl" />
   </ItemGroup>
 </Project>
