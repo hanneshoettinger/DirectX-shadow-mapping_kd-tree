@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="Microsoft.SDKSamples.ShadowMapping.CPP" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>DirectX shadow mapping in FEATURE_LEVEL_9_1 C++ sample</DisplayName>
+    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <Logo>storeLogo-sdk.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ShadowMapSample.App">
+      <m2:VisualElements DisplayName="DirectX Shadow Mapping" Description="DirectX shadow mapping in FEATURE_LEVEL_9_1 C++ sample" BackgroundColor="#00b2f0" ForegroundText="light" Square150x150Logo="squareTile-sdk.png" Square30x30Logo="smallTile-sdk.png">
+        <m2:DefaultTile ShortName="DirectX shadow mapping 9_1 C++">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen BackgroundColor="#00b2f0" Image="splash-sdk.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+</Package>

@@ -1,0 +1,15 @@
+App.xbf
+ComparisonShader.cso
+DirectXPage.xbf
+LinePixelShader.cso
+ShadowPixelShader.cso
+ShadowPixelShader_point.cso
+SimpleVertexShader.cso
+TextureShader.cso
+VertexLineShader.cso
+VertexShader.cso
+smallTile-sdk.png
+splash-sdk.png
+squareTile-sdk.png
+storeLogo-sdk.png
+windowstitle-sdk.png

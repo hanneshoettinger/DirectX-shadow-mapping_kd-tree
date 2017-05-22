@@ -1,0 +1,1 @@
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\ShadowMapping.vcxproj;x86

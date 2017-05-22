@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-GSGKDI2</Machine>
+    <WindowsUser>Hannes</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.ShadowMapping.CPP</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DEB4EDFC0A56E6A389DB958D757477894D3591E2377EBFBFE47E67A5012AF75E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.ShadowMapping.CPP_1.0.0.0_x86__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.ShadowMapping.CPP_8wekyb3d8bbwe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.ShadowMapping.CPP</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-05T16:52:07.673</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowMapping.exe">
+      <PackagePath>ShadowMapping.exe</PackagePath>
+      <Modified>2016-01-05T16:57:39.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowMapping.winmd">
+      <PackagePath>ShadowMapping.winmd</PackagePath>
+      <Modified>2016-01-05T16:52:05.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\storeLogo-sdk.png">
+      <PackagePath>storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-06T00:27:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\squareTile-sdk.png">
+      <PackagePath>squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-06T00:27:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\smallTile-sdk.png">
+      <PackagePath>smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-06T00:27:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\splash-sdk.png">
+      <PackagePath>splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-06T00:27:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\windowstitle-sdk.png">
+      <PackagePath>windowstitle-sdk.png</PackagePath>
+      <Modified>2014-06-06T00:27:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ComparisonShader.cso">
+      <PackagePath>ComparisonShader.cso</PackagePath>
+      <Modified>2016-01-05T16:51:56.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\LinePixelShader.cso">
+      <PackagePath>LinePixelShader.cso</PackagePath>
+      <Modified>2016-01-05T16:51:56.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\SimpleVertexShader.cso">
+      <PackagePath>SimpleVertexShader.cso</PackagePath>
+      <Modified>2016-01-05T16:51:56.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowPixelShader_point.cso">
+      <PackagePath>ShadowPixelShader_point.cso</PackagePath>
+      <Modified>2016-01-05T16:57:29.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\ShadowPixelShader.cso">
+      <PackagePath>ShadowPixelShader.cso</PackagePath>
+      <Modified>2016-01-05T16:57:29.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\TextureShader.cso">
+      <PackagePath>TextureShader.cso</PackagePath>
+      <Modified>2016-01-05T16:51:56.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\VertexLineShader.cso">
+      <PackagePath>VertexLineShader.cso</PackagePath>
+      <Modified>2016-01-05T16:51:56.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\VertexShader.cso">
+      <PackagePath>VertexShader.cso</PackagePath>
+      <Modified>2016-01-05T16:51:56.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-05T16:52:05.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\DirectXPage.xbf">
+      <PackagePath>DirectXPage.xbf</PackagePath>
+      <Modified>2016-01-05T16:52:05.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hannes\Documents\Visual Studio 2015\Projects\EZG\EZG-DirectX-Shadow-Mapping\C++\Debug\ShadowMapping\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-05T16:52:07.645</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
