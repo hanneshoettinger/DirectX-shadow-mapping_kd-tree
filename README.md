@@ -9,7 +9,7 @@ DirectX 3D Visualization of a scene with three objects (Windows 8 SDK).
 6. Switch between Anti-Aliasing Quality Levels/Sample Count
 7. Ray-Tracing with kd-Tree and visualization of the hit triangle; Camera-To-Point and Point-To-Point distance measurement
 
-DirectX Scene with Point-To-Point measurement, shadow mapping, anti-aliasing and normal mapping:
+DirectX Scene with Point-To-Point measurement, shadow mapping, anti-aliasing and normal mapping (Textures in Debug/ShadowMapping/AppX):
 
 ![scene](scene.png "DirectX Scene with Point-To-Point measurement, shadow mapping, anti-aliasing and normal mapping")
 
